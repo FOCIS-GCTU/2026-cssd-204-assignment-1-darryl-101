@@ -1,10 +1,10 @@
-# File: DOL.py
+# File: initials.py
 # Description: Print out my initials.
 # Assignment Number: 1
 #
 # Name: Darryl Otchere Larbi
 # STUDENT ID: 2425402784
-#GROUP :A
+# GROUP :A
 # Email: 2425402784@live.gctu.edu.gh
 # Grader: Augustus Buckman
 #
